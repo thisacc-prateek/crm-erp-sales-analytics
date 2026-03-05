@@ -1,4 +1,5 @@
 # CRM & ERP Sales Analytics Pipeline
+![](High%20Level%20Architecture/High%20Level%20Architecture.png)
 
 ## Overview
 
