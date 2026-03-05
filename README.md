@@ -80,7 +80,9 @@ This structure enables efficient querying and integration with BI tools.
 ---
 
 ## Data Flow
-[]!(Data%20Flow/Data%20Flow.png)
+![](Data%20Flow/Data%20Flow.png)
+
+---
 # Data Sources
 
 The project integrates data from two enterprise systems.
